@@ -20,7 +20,7 @@ Spotify offers a plethora of playlists ranging from types of moods to genres.  H
 
 POLLEN is “a playlist based around a radical premise: It was not organized by genre.” This playlist has 410,000 followers and is made up of 120 tracks. A testimony to Pollen’s listeners from Hope Tala, a producer of an artist with 450,000 monthly listeners, exclaims “We’ve been on other playlists that have higher follower numbers, but the engagement on Pollen is mad….This is not like a mid-day cafe background playlist; this is a, I-need-to-listen-to-this-today” (1).
 
-#Example Playlist: https://open.spotify.com/playlist/0GSTuobEEOLb9k0bBJJH4R?si=LRjUmFSzSF2F-zucXuwRyg
+# Example Playlist: https://open.spotify.com/playlist/0GSTuobEEOLb9k0bBJJH4R?si=LRjUmFSzSF2F-zucXuwRyg
 
 
 # Limitation
