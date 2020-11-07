@@ -1,3 +1,7 @@
+# Update
+
+S3 and Spotify Application are no longer active.  Please only use the notebooks as templates.  Experience an example playlist below.
+
 # TSP Spotify Playlist
 Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georgetown University School of Continuing Studies.
 
